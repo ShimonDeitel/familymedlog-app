@@ -1,0 +1,29 @@
+{
+  "identifier": "NONCONSUMABLE",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "prod001",
+      "localizations": [
+        {
+          "description": "Unlock: Prescription history export and visit reminders",
+          "displayName": "Family Medical Log Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "familymedlog_pro",
+      "referenceName": "Family Medical Log Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
